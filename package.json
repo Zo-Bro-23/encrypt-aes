@@ -1,0 +1,30 @@
+{
+  "name": "encrypt-aes",
+  "version": "1.0.0",
+  "description": "A very simple module for basic AES encryption without any other overheads.",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-random-string": "^3.3.1"
+  },
+  "homepage": "https://github.com/Zo-Bro-23/encrypt-aes",
+  "repository": {
+    "url": "https://github.com/Zo-Bro-23/encrypt-aes.git",
+    "type": "git"
+  },
+  "devDependencies": {},
+  "publishConfig": {"tag": "latest"},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Zohan Subhash",
+  "license": "GPL-3.0",
+  "keywords": [
+    "encryption",
+    "encrypt",
+    "crypto",
+    "aes",
+    "easy",
+    "Zohan",
+    "Subhash"
+  ]
+}
